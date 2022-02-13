@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Калькулятор системы счислений ( 10 - 2, 8, 16)/1.0.0": {
+        "runtime": {
+          "Калькулятор системы счислений ( 10 - 2, 8, 16).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Калькулятор системы счислений ( 10 - 2, 8, 16)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

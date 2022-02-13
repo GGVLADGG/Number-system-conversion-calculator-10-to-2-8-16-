@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Калькулятор_системы_счислений___10___2__8__16_</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Backspace.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Backspace.png" />
+  </ItemGroup>
+
+</Project>
